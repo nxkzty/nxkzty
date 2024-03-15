@@ -17,12 +17,6 @@ I'm Leon, a 16-year-old Software Developer from Switzerland 🇨🇭. Welcome to
 ![SQL](https://img.shields.io/badge/SQL-80%25-blue)
 ![HTML/CSS](https://img.shields.io/badge/HTML/CSS-80%25-lightgrey)
 
-
-## Current Projects
-
-- React.js Learning Page (React.js & Next.js Website that teaches how to use React.js)
-
-
 ## Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nxkzty&show_icons=true&hide=contribs,prs&theme=radical)
